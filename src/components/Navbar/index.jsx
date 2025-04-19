@@ -4,6 +4,7 @@ import {menus} from "../../data"
 import { Link } from 'react-scroll'
 import { FaArrowRightLong } from 'react-icons/fa6'
 import Logo from '../Logo'
+import { FaTimes } from 'react-icons/fa'
 
 const Navbar = () => {
   return (
